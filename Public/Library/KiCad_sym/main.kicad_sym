@@ -3,7 +3,7 @@
     (property "Reference" "Relay" (at 0 -15.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "" (at 1.27 -11.43 0)
+    (property "Value" "G2R-1-E" (at 1.27 -11.43 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 1.27 -11.43 0)
