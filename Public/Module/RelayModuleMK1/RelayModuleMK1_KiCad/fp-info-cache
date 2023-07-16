@@ -1,4 +1,4 @@
-21916285534569741
+21923043160797804
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51526,6 +51526,13 @@ D8_P3.5
 0
 2
 2
+Customer_Capacitor_Aluminium
+D13_P5.0mm
+
+
+0
+2
+2
 Customer_Connector
 2EDG-5.08mm_2P_Horizontal
 
@@ -51533,6 +51540,13 @@ Customer_Connector
 0
 2
 2
+Customer_Connector
+2EDG-5.08mm_3P_Horizontal
+
+
+0
+3
+3
 Customer_Connector
 2EDG-5.08mm_4P_Horizontal
 
@@ -51645,6 +51659,13 @@ XH2.54_01x05_Vertical_SMD
 0
 7
 6
+Customer_OptoCoupler
+Vishay_SMD-16_P2.54mm
+
+
+0
+16
+16
 Customer_Passive
 Capacitor_Aluminium_16x25
 
@@ -51694,6 +51715,13 @@ Potentiometer_RV09_Vertical
 0
 5
 4
+Customer_Relay
+OMRON_G2R-1-E(Z)
+
+
+0
+8
+8
 Customer_Switch
 MSKT-12C01-07
 
