@@ -55,14 +55,19 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "copper_edge_clearance|182880000|115570000|5dd5c971-aa56-4789-abbd-522028176a00|267493e0-c82d-4c1a-9e39-8301e2671d9a",
+        "copper_edge_clearance|182880000|36830000|5dd5c971-aa56-4789-abbd-522028176a00|4bd71f00-41a2-4824-96d7-cf2d65d41fe7",
+        "copper_edge_clearance|274320000|115570000|5dd5c971-aa56-4789-abbd-522028176a00|da002d10-dd9f-423e-93ca-749fefd76e48",
+        "copper_edge_clearance|274320000|36830000|5dd5c971-aa56-4789-abbd-522028176a00|ffaf35c0-7cbc-418a-9b99-8709bd7a2509"
+      ],
       "meta": {
         "version": 2
       },
       "rule_severities": {
         "annular_width": "error",
         "clearance": "error",
-        "connection_width": "warning",
+        "connection_width": "error",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
@@ -86,19 +91,19 @@
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
-        "net_conflict": "warning",
+        "net_conflict": "error",
         "npth_inside_courtyard": "ignore",
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
-        "text_height": "warning",
-        "text_thickness": "warning",
+        "text_height": "ignore",
+        "text_thickness": "ignore",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
@@ -106,7 +111,7 @@
         "tracks_crossing": "error",
         "unconnected_items": "error",
         "unresolved_variable": "error",
-        "via_dangling": "warning",
+        "via_dangling": "error",
         "zones_intersect": "error"
       },
       "rules": {
