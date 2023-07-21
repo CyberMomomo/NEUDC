@@ -1,4 +1,4 @@
-21924733112597777
+21929802972787315
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51562,6 +51562,13 @@ Customer_Connector
 5
 5
 Customer_Connector
+2EDG-5.08mm_8P_Horizontal
+
+
+0
+8
+8
+Customer_Connector
 128-3.81_2P
 
 
@@ -51594,8 +51601,8 @@ AMASS_24.245
 
 
 0
-0
-0
+5
+1
 Customer_Connector
 Audio_Jack_PJ-210C_3P
 
@@ -51688,6 +51695,13 @@ Inductor_Coupled_THT_Base_22x14x8
 4
 4
 Customer_Passive
+Inductor_Coupled_THT_UF16
+
+
+0
+4
+4
+Customer_Passive
 Inductor_HC0630
 
 
@@ -51710,6 +51724,13 @@ Inductor_HC1770
 2
 Customer_Passive
 Inductor_THT_6x8
+
+
+0
+2
+2
+Customer_Passive
+Inductor_THT_10x16
 
 
 0
