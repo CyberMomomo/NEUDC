@@ -416,7 +416,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ADS131M02_KiCad.kicad_pro",
+    "filename": "Timer_8.192Mhz_Kicad.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -493,7 +493,7 @@
   },
   "sheets": [
     [
-      "7d2fbb59-57e0-429a-94f3-b0f859024267",
+      "0c38b44f-d721-4bbf-bf39-44896cf2be07",
       ""
     ]
   ],
