@@ -1,4 +1,4 @@
-21933183163349708
+21934873391347457
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51738,6 +51738,13 @@ Inductor_THT_6x8
 2
 Customer_Passive
 Inductor_THT_10x16
+
+
+0
+2
+2
+Customer_Passive
+LED_0402_Bottom
 
 
 0
