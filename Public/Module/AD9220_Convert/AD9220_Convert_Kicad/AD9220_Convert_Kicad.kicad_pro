@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.635
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -173,8 +173,7 @@
       ],
       "track_widths": [
         0.0,
-        0.254,
-        0.381
+        0.254
       ],
       "via_dimensions": [
         {
@@ -411,7 +410,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Adder_SOP8_DoubleAmplifier_Kicad.kicad_pro",
+    "filename": "AD9220_Convert_Kicad.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -488,7 +487,7 @@
   },
   "sheets": [
     [
-      "4ed01c9e-ac28-430d-9e6e-36e802b08850",
+      "66b45e6c-448e-49ba-8d68-1fc0919e27fe",
       ""
     ]
   ],
